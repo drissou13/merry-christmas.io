@@ -1,0 +1,62 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to bottom, #ffecd2, #fcb69f);
+  text-align: center;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 50px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #d9534f;
+}
+
+.task {
+  font-size: 1.5rem;
+  margin: 20px 0;
+}
+
+.input-group {
+  margin: 20px 0;
+}
+
+input {
+  padding: 10px;
+  font-size: 1rem;
+  margin: 5px;
+  width: 200px;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #28a745;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #218838;
+}
+
+.score {
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+
+.music-toggle {
+  margin-top: 20px;
+  background-color: #ffc107;
+}
+
+.music-toggle:hover {
+  background-color: #e0a800;
+}
